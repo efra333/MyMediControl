@@ -15,11 +15,6 @@
 - **Múltiples parámetros**: Registra mediciones de:
   - Glucosa en sangre (mg/dL)
   - Presión arterial (mmHg)
-  - Peso (kg)
-- **Alertas visuales** (código de colores):
-  - 🟢 Verde: Valores normales
-  - 🟡 Amarillo: Valores de alerta
-  - 🔴 Rojo: Valores peligrosos
 
 ### 📱 Interfaz Intuitiva
 - **Sistema de pestañas**: Navegación sencilla entre historiales.
