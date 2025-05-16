@@ -8,7 +8,6 @@
 
 ### 🩺 Control de Medicamentos
 - **Registro de dosis**: Permite a los usuarios registrar cuándo han tomado sus medicamentos.
-- **Seguimiento de cumplimiento**: Clasifica las dosis como "Tomado", "Omitido" o "Saltado".
 - **Historial de medicación**: Visualización de todas las dosis con fechas y estados.
 
 ### 📊 Monitoreo de Signos Vitales
@@ -32,6 +31,10 @@
 
 ![Pantalla principal](assets/captura1.jpeg)
 ![Historial de medicación](assets/captura2.jpeg)
+![Pantalla](assets/captura3.jpeg)
+![Pantalla](assets/captura4.jpeg)
+![Pantalla](assets/captura5.jpeg)
+
 
 ---
 
@@ -44,9 +47,9 @@
 
 ## 🛠️ Instalación
 
-1. Descarga el APK desde la sección de [releases](https://github.com/tu-username/mymedicontrol/releases)
-2. Habilita la instalación de aplicaciones de orígenes desconocidos en tu dispositivo.
-3. Instala la aplicación.
+1. Descarga el archivo .zip
+2. Importa el projecto en Android Studio
+3. Commpila
 4. ¡Comienza a gestionar tu salud!
 
 ---
