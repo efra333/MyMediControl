@@ -30,8 +30,8 @@
 
 ## 📷 Capturas de Pantalla
 
-![Pantalla principal](assets/captura1.png)
-![Historial de medicación](assets/captura2.png)
+![Pantalla principal](assets/captura1.jpeg)
+![Historial de medicación](assets/captura2.jpeg)
 
 ---
 
