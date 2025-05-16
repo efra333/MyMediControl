@@ -61,6 +61,9 @@
 - RecyclerView  
 - CardView  
 - Material Design
+- API Calorie Ninjas
+- Firebase
+- Firestore
 
 ---
 
